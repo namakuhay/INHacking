@@ -1,2 +1,32 @@
-# INHacking
-Indian Hacking Tool!! Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Anonymous-sms, Webcam Hack • Powerful DDOS attack tool!! Operating System Requirements works on any of the following operating systems: • Android • Linux • Unix
+Author: DushyantRajotia
+### Version 3
+
+(![image](https://raw.githubusercontent.com/dushyantrajotia/INHacking/main/inhacking.png)
+
+# Hacking Tools
+Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
+
+• Powerful DDOS attack tool!!
+
+# Operating System Requirements
+works on any of the following operating systems:
+
+• Android (Using the Termux App)
+
+• Linux (Debian Based Systems)
+
+• Unix
+
+# How to Install
+* Open the terminal and type `<pkg install git>`
+* Then`<git clone https://github.com/dushyantrajotia/INHacking>`
+* `<cd INHacking>`
+* `<bash inhack.sh>`
+
+
+# Warning
+
+We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
+
+
+❤️ Support me
